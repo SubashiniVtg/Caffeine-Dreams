@@ -1,3 +1,12 @@
+🚀 Exciting Milestone in My React Journey! 🚀
+I'm thrilled to share that I've just built my first project using React—a dynamic menu card for a coffee website! ☕✨ It's a beginner-level project, but it’s been an amazing hands-on experience working with components, props, and state management.
+The menu includes separate sections for:
+🍦 Ice Cream
+🥤 Soft Drinks
+🍵 Tea
+🍫 Chocolates
+And of course, various Coffee options!
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
